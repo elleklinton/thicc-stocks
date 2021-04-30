@@ -1,0 +1,9 @@
+*private.*
+.ipynb_checkpoints
+lib/scraper/data
+
+*.csv
+meta-as-fuck.json
+*.h5
+__pycache__/
+.idea/
